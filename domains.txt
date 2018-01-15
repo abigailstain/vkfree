@@ -1,0 +1,919 @@
+.ru
+.ru
+.ru.net
+.com.ru
+.net.ru
+.org.ru
+.pp.ru
+.рф
+.рус
+.su
+.moscow
+.москва
+.msk.ru
+.msk.su
+.spb.ru
+.spb.su
+.tatar
+.com.ua
+.kiev.ua
+.co.ua
+.biz.ua
+.pp.ua
+.am
+.co.am
+.com.am
+.net.am
+.org.am
+.radio.am
+.armenia.su
+.georgia.su
+.kz
+.com.kz
+.org.kz
+.aktyubinsk.su
+.chimkent.su
+.east-kazakhstan.su
+.jambyl.su
+.karaganda.su
+.kustanai.ru
+.kustanai.su
+.mangyshlak.su
+.north-kazakhstan.su
+.tselinograd.su
+.md
+.tj
+.tm1
+.ashgabad.su
+.abkhazia.su
+.adygeya.ru
+.adygeya.su
+.arkhangelsk.su
+.azerbaijan.su
+.balashov.su
+.bashkiria.ru
+.bashkiria.su
+.bir.ru
+.bryansk.su
+.bukhara.su
+.cbg.ru
+.dagestan.ru
+.dagestan.su
+.grozny.ru
+.grozny.su
+.ivanovo.su
+.kalmykia.ru
+.kalmykia.su
+.kaluga.su
+.karacol.su
+.karelia.su
+.khakassia.su
+.krasnodar.su
+.kurgan.su
+.lenug.su
+.marine.ru
+.mordovia.ru
+.mordovia.su
+.murmansk.su
+.mytis.ru
+.nalchik.ru
+.nalchik.su
+.navoi.su
+.nov.ru
+.nov.su
+.obninsk.su
+.penza.su
+.pokrovsk.su
+.pyatigorsk.ru
+.sochi.su
+.tashkent.su
+.termez.su
+.togliatti.su
+.troitsk.su
+.tula.su
+.tuva.su
+.vladikavkaz.ru
+.vladikavkaz.su
+.vladimir.ru
+.vladimir.su
+.vologda.su
+.балаклава.рф
+.донузлав.рф
+.евпатория.рф
+.инкерман.рф
+.казантип.рф
+.коктебель.рф
+.массандра.рф
+.ореанда.рф
+.севастополь.рф
+.симфи.рф
+.тарханкут.рф
+.ялта.рф
+.ru.com
+.su
+.com.ua
+.kiev.ua
+.co.ua
+.biz.ua
+.radio.am
+.kz
+.com.kz
+.org.kz
+.com
+.net
+.org
+.biz
+.travel
+.info
+.name
+.pw
+.орг
+.com
+.net
+.org
+.name
+.pw
+.дети
+.онлайн
+.сайт
+.academy
+.accountant
+.accountants
+.actor
+.adult
+.aero
+.agency
+.airforce
+.apartments
+.art
+.associates
+.attorney
+.auction
+.audio
+.auto
+.baby
+.band
+.bar
+.bargains
+.beer
+.best
+.bet
+.bid
+.bike
+.bingo
+.black
+.blackfriday
+.blog
+.blue
+.boutique
+.broker
+.build
+.builders
+.business
+.buzz
+.bzh
+.cab
+.cafe
+.cam
+.camera
+.camp
+.capital
+.car
+.cards
+.care
+.career
+.careers
+.cars
+.casa
+.cash
+.casino
+.cat
+.catering
+.center
+.chat
+.cheap
+.christmas
+.church
+.city
+.claims
+.cleaning
+.click
+.clinic
+.clothing
+.cloud
+.club
+.coach
+.codes
+.coffee
+.college
+.community
+.company
+.computer
+.condos
+.construction
+.consulting
+.contractors
+.cooking
+.cool
+.country
+.coupons
+.courses
+.credit4 975 ₽
+.creditcard9 145 ₽
+.cricket4 097 ₽
+.cruises2 634 ₽
+.dance1 390 ₽
+.date2 110 ₽
+.dating2 634 ₽
+.deals1 639 ₽
+.degree2 341 ₽
+.delivery2 634 ₽
+.democrat1 639 ₽
+.dental2 634 ₽
+.dentist2 048 ₽
+.desi1 054 ₽
+.design
+-75%
+ 1 116 ₽
+.diamonds2 634 ₽
+.diet7 535 ₽
+.digital1 639 ₽
+.direct1 639 ₽
+.directory1 054 ₽
+.discount1 639 ₽
+.dog1 639 ₽
+.domains2 048 ₽
+.download1 639 ₽
+.earth1 463 ₽
+.eco5 194 ₽
+.education1 054 ₽
+.email1 054 ₽
+.energy4 975 ₽
+.engineer1 639 ₽
+.engineering2 634 ₽
+.enterprises1 639 ₽
+.equipment1 054 ₽
+.estate1 683 ₽
+.eus5 372 ₽
+.events1 639 ₽
+.exchange1 639 ₽
+.exnet.su199 ₽
+.expert2 634 ₽
+.exposed1 054 ₽
+.express1 639 ₽
+.fail1 639 ₽
+.faith2 110 ₽
+.family1 463 ₽
+.fans3 658 ₽
+.farm1 639 ₽
+.fashion1 639 ₽
+.feedback21 948 ₽
+.film6 405 ₽
+.finance2 634 ₽
+.financial2 634 ₽
+.fish1 639 ₽
+.fishing1 756 ₽
+.fit1 756 ₽
+.fitness1 639 ₽
+.flights2 634 ₽
+.florist1 639 ₽
+.flowers7 901 ₽
+.fm7 133 ₽
+.football1 280 ₽
+.forex87 792 ₽
+.forsale1 639 ₽
+.foundation1 639 ₽
+.frl2 813 ₽
+.fun
+-88%
+ 249 ₽
+.fund2 634 ₽
+.furniture2 634 ₽
+.futbol878 ₽
+.fyi1 054 ₽
+.gallery1 054 ₽
+.game32 026 ₽
+.games1 171 ₽
+.garden1 639 ₽
+.gent1 912 ₽
+.gift1 054 ₽
+.gifts1 639 ₽
+.gives1 639 ₽
+.glass1 639 ₽
+.global3 804 ₽
+.gmbh1 639 ₽
+.gold4 975 ₽
+.golf2 634 ₽
+.graphics1 054 ₽
+.gratis1 054 ₽
+.green4 097 ₽
+.gripe1 639 ₽
+.group1 171 ₽
+.guide1 639 ₽
+.guitars7 609 ₽
+.guru1 639 ₽
+.haus1 639 ₽
+.healthnew4 278 ₽
+.healthcare2 634 ₽
+.help1 683 ₽
+.hiphop7 755 ₽
+.hiv14 266 ₽
+.hockey2 634 ₽
+.holdings2 634 ₽
+.holiday2 634 ₽
+.horse1 756 ₽
+.hospital2 634 ₽
+.host4 755 ₽
+.hosting22 241 ₽
+.house1 639 ₽
+.how1 639 ₽
+.immo1 639 ₽
+.immobilien1 639 ₽
+.industries1 639 ₽
+.ink
+-75%
+ 670 ₽
+.institute1 054 ₽
+.insure2 634 ₽
+.international1 054 ₽
+.investments4 975 ₽
+.jetzt1 075 ₽
+.jewelry2 634 ₽
+.jobs8 289 ₽
+.juegos22 094 ₽
+.kaufen1 639 ₽
+.kim878 ₽
+.kitchen1 639 ₽
+.kiwi2 195 ₽
+.land1 639 ₽
+.lawyer2 194 ₽
+.lease2 634 ₽
+.legal2 634 ₽
+.lgbt2 341 ₽
+.life1 639 ₽
+.lighting1 054 ₽
+.limited1 639 ₽
+.limo2 634 ₽
+.link878 ₽
+.live1 573 ₽
+.loan1 639 ₽
+.loans4 975 ₽
+.lol1 639 ₽
+.love1 463 ₽
+.ltd1 171 ₽
+.ltda2 341 ₽
+.luxury36 580 ₽
+.maison2 634 ₽
+.management1 170 ₽
+.market1 756 ₽
+.marketing1 639 ₽
+.markets4 487 ₽
+.mba1 639 ₽
+.media1 639 ₽
+.memorial2 634 ₽
+.men1 639 ₽
+.menu2 048 ₽
+.mobi
+-59%
+ 951 ₽
+.moda1 463 ₽
+.moe1 171 ₽
+.mom2 341 ₽
+.money1 639 ₽
+.movie15 217 ₽
+.network1 054 ₽
+.ninja1 097 ₽
+.observer585 ₽
+.one641 ₽
+.onl1 137 ₽
+.online
+-86%
+ 199 ₽
+.ooo1 682 ₽
+.partners2 634 ₽
+.parts1 639 ₽
+.party1 639 ₽
+.pet1 085 ₽
+.photo1 639 ₽
+.photography1 054 ₽
+.photos1 054 ₽
+.physio5 487 ₽
+.pics1 683 ₽
+.pictures702 ₽
+.pink950 ₽
+.pizza2 634 ₽
+.place1 639 ₽
+.plumbing1 639 ₽
+.plus1 639 ₽
+.poker2 341 ₽
+.porn4 682 ₽
+.press5 378 ₽
+.pro
+-91%
+ 146 ₽
+.productions1 639 ₽
+.promo1 078 ₽
+.properties1 639 ₽
+.property7 609 ₽
+.protection146 320 ₽
+.pub1 639 ₽
+.qpon1 130 ₽
+.radio.am1 317 ₽
+.radio.fm1 317 ₽
+.racing1 639 ₽
+.realty585 ₽
+.recipes2 634 ₽
+.red950 ₽
+.rehab1 639 ₽
+.reisen1 054 ₽
+.rent
+-78%
+ 1 299 ₽
+.rentals1 639 ₽
+.repair1 639 ₽
+.report1 054 ₽
+.rest1 829 ₽
+.restaurant2 634 ₽
+.reviews1 463 ₽
+.rip1 054 ₽
+.rocks732 ₽
+.rodeo1 639 ₽
+.run1 054 ₽
+.sale1 756 ₽
+.salon2 634 ₽
+.sarl1 639 ₽
+.school2 092 ₽
+.schule1 054 ₽
+.science1 639 ₽
+.security146 320 ₽
+.services1 639 ₽
+.sex4 682 ₽
+.sexy2 604 ₽
+.shiksha950 ₽
+.shoes1 755 ₽
+.shop1 829 ₽
+.shopping1 639 ₽
+.show1 639 ₽
+.singles1 639 ₽
+.site
+-89%
+ 109 ₽
+.ski2 341 ₽
+.soccer1 054 ₽
+.social1 317 ₽
+.software1 639 ₽
+.solar1 639 ₽
+.solutions1 054 ₽
+.soy1 463 ₽
+.space
+-89%
+ 64 ₽
+.storage46 500 ₽
+.store
+-85%
+ 299 ₽
+.stream1 639 ₽
+.studio1 573 ₽
+.study1 756 ₽
+.sucks18 290 ₽
+.supplies1 054 ₽
+.supply1 054 ₽
+.support1 054 ₽
+.surf1 639 ₽
+.surgery2 634 ₽
+.systems1 054 ₽
+.tattoo2 487 ₽
+.tax2 634 ₽
+.taxi2 634 ₽
+.team1 639 ₽
+.tech
+-83%
+ 299 ₽
+.technology1 054 ₽
+.tel
+-61%
+ 732 ₽
+.tennis2 634 ₽
+.theater2 634 ₽
+.theatre36 580 ₽
+.tienda2 634 ₽
+.tips1 054 ₽
+.tires4 975 ₽
+.today1 054 ₽
+.tools1 639 ₽
+.top732 ₽
+.tours2 634 ₽
+.town1 639 ₽
+.toys1 639 ₽
+.trade1 463 ₽
+.trading5 350 ₽
+.training1 639 ₽
+.travel7 243 ₽
+.tube2 155 ₽
+.tv
+-59%
+ 1 549 ₽
+.university2 853 ₽
+.uno1 688 ₽
+.vacations1 639 ₽
+.ventures2 634 ₽
+.vet1 639 ₽
+.viajes2 634 ₽
+.video1 463 ₽
+.villas2 634 ₽
+.vin2 634 ₽
+.vip1 356 ₽
+.vision1 756 ₽
+.vodka1 639 ₽
+.vote4 097 ₽
+.voto4 097 ₽
+.voyage2 634 ₽
+.wang784 ₽
+.watch1 639 ₽
+.webcam1 463 ₽
+.website
+-93%
+ 64 ₽
+.wedding1 639 ₽
+.whoswho7 535 ₽
+.wiki
+-75%
+ 670 ₽
+.win1 639 ₽
+.wine2 634 ₽
+.work732 ₽
+.works1 639 ₽
+.world1 639 ₽
+.wtf1 639 ₽
+.xxx5 560 ₽
+.xyz
+-92%
+ 99 ₽
+.yoga1 756 ₽
+.zone1 639 ₽
+.art988 ₽
+.bar3 658 ₽
+.college
+-78%
+ 1 299 ₽
+.design
+-75%
+ 1 116 ₽
+.feedback21 948 ₽
+.host4 755 ₽
+.ink
+-75%
+ 670 ₽
+.love1 463 ₽
+.observer585 ₽
+.online
+-86%
+ 199 ₽
+.press5 378 ₽
+.protection146 320 ₽
+.radio.am1 317 ₽
+.radio.fm1 317 ₽
+.realty585 ₽
+.rent
+-78%
+ 1 299 ₽
+.rest1 829 ₽
+.security146 320 ₽
+.shop1 829 ₽
+.site
+-89%
+ 109 ₽
+.space
+-89%
+ 64 ₽
+.store
+-85%
+ 299 ₽
+.tattoo2 487 ₽
+.tech
+-83%
+ 299 ₽
+.tel
+-42%
+ 1 098 ₽
+.theatre36 580 ₽
+.tv
+-54%
+ 1 549 ₽
+.website
+-93%
+ 64 ₽
+.wiki
+-75%
+ 670 ₽
+.xyz
+-92%
+ 99 ₽
+европа
+.eu735 ₽
+.eu.com1 438 ₽
+.at
+-44%
+ 1 469 ₽
+.co.at2 092 ₽
+.or.at1 695 ₽
+.be
+-56%
+ 658 ₽
+.ch1 427 ₽
+.cz
+-72%
+ 1 207 ₽
+.es
+-60%
+ 855 ₽
+.com.es894 ₽
+.nom.es894 ₽
+.org.es894 ₽
+.gb.net681 ₽
+.gr.com1 208 ₽
+.hu.net2 646 ₽
+.im
+-57%
+ 1 097 ₽
+.co.im1 646 ₽
+.com.im1 646 ₽
+.net.im1 646 ₽
+.org.im1 646 ₽
+.li2 085 ₽
+.lt2 195 ₽
+.lu3 278 ₽
+.lv
+-50%
+ 2 744 ₽
+.ans.lv2 301 ₽
+.com.lv3 292 ₽
+.conf.lv2 301 ₽
+.edu.lv2 301 ₽
+.id.lv2 301 ₽
+.net.lv2 301 ₽
+.org.lv4 609 ₽
+.me1 611 ₽
+.nl877 ₽
+.pl549 ₽
+.com.pl549 ₽
+.net.pl549 ₽
+.org.pl549 ₽
+.info.pl549 ₽
+.biz.pl549 ₽
+.edu.pl988 ₽
+.nom.pl988 ₽
+.shop.pl988 ₽
+.waw.pl988 ₽
+.se.net2 646 ₽
+.si2 414 ₽
+.sk5 086 ₽
+.co.uk820 ₽
+.org.uk820 ₽
+.me.uk820 ₽
+.uk.com2 215 ₽
+.uk.net2 215 ₽
+.london2 926 ₽
+.gr1 866 ₽
+.ro6 036 ₽
+.com.ro7 682 ₽
+.fi3 841 ₽
+.de
+-49%
+ 593 ₽
+.com.de414 ₽
+.de.com1 438 ₽
+.berlin2 765 ₽
+.koeln624 ₽
+.cologne624 ₽
+.hamburg2 820 ₽
+.wien1 975 ₽
+.bayern2 341 ₽
+.scot3 292 ₽
+.brussels2 252 ₽
+.vlaanderen2 252 ₽
+.wales1 001 ₽
+.cymru1 001 ₽
+.melbourne4 145 ₽
+.lat2 260 ₽
+.gent1 912 ₽
+.saarland1 422 ₽
+.ist1 304 ₽
+.istanbul1 620 ₽
+.eu735 ₽
+.eu.com1 438 ₽
+.be
+-56%
+ 658 ₽
+.gr1 866 ₽
+.com.ro7 682 ₽
+.berlin2 765 ₽
+азия
+.asia715 ₽
+.ae4 390 ₽
+.ae.org1 646 ₽
+.af6 584 ₽
+.com.af6 584 ₽
+.net.af6 584 ₽
+.org.af6 584 ₽
+.cn.com
+-57%
+ 1 536 ₽
+.cx1 646 ₽
+.christmas3 124 ₽
+.in965 ₽
+.co.in734 ₽
+.net.in734 ₽
+.in.net658 ₽
+.org.in734 ₽
+.gen.in734 ₽
+.firm.in734 ₽
+.ind.in734 ₽
+.io4 390 ₽
+.jp5 377 ₽
+.jp.net768 ₽
+.jpn.com3 292 ₽
+.tokyo1 097 ₽
+.nagoya1 097 ₽
+.yokohama1 097 ₽
+.la2 744 ₽
+.mn4 169 ₽
+.my6 584 ₽
+.com.my9 877 ₽
+.net.my9 877 ₽
+.org.my9 877 ₽
+.pk5 086 ₽
+.ph4 609 ₽
+.com.ph4 609 ₽
+.net.ph4 609 ₽
+.org.ph4 609 ₽
+.qa4 938 ₽
+.sa.com3 292 ₽
+.tl4 280 ₽
+.tw
+-53%
+ 2 195 ₽
+.com.tw
+-47%
+ 2 195 ₽
+.idv.tw2 744 ₽
+.club.tw3 278 ₽
+.ebiz.tw3 278 ₽
+.game.tw3 278 ₽
+.to11 303 ₽
+.ist1 304 ₽
+.istanbul1 620 ₽
+.in.net658 ₽
+америка
+.us767 ₽
+.us.com1 646 ₽
+.us.org1 646 ₽
+.la2 744 ₽
+.co2 792 ₽
+.ag9 328 ₽
+.co.ag6 782 ₽
+.com.ag6 782 ₽
+.net.ag6 782 ₽
+.org.ag6 782 ₽
+.nom.ag9 328 ₽
+.br.com3 621 ₽
+.bz2 085 ₽
+.co.bz2 826 ₽
+.com.bz2 826 ₽
+.net.bz2 826 ₽
+.org.bz2 195 ₽
+.quebec2 048 ₽
+.cl4 069 ₽
+.com.co1 316 ₽
+.co.com2 195 ₽
+.net.co1 316 ₽
+.nom.co1 316 ₽
+.ec6 584 ₽
+.com.ec8 231 ₽
+.net.ec7 023 ₽
+.info.ec5 487 ₽
+.pro.ec5 487 ₽
+.med.ec5 487 ₽
+.fin.ec5 487 ₽
+.gl4 829 ₽
+.co.gl4 829 ₽
+.com.gl6 475 ₽
+.net.gl6 475 ₽
+.org.gl6 475 ₽
+.gs3 278 ₽
+.gy3 841 ₽
+.co.gy3 841 ₽
+.com.gy3 841 ₽
+.net.gy3 841 ₽
+.hn7 133 ₽
+.com.hn7 133 ₽
+.net.hn7 133 ₽
+.org.hn7 133 ₽
+.ht9 218 ₽
+.com.ht1 207 ₽
+.net.ht1 207 ₽
+.org.ht2 414 ₽
+.info.ht3 402 ₽
+.lc3 292 ₽
+.co.lc3 292 ₽
+.com.lc3 292 ₽
+.net.lc3 292 ₽
+.org.lc3 292 ₽
+.mx4 335 ₽
+.com.mx2 963 ₽
+.mex.com1 097 ₽
+.pe5 706 ₽
+.com.pe5 706 ₽
+.net.pe5 706 ₽
+.org.pe5 706 ₽
+.sr13 169 ₽
+.sx3 291 ₽
+.vc3 730 ₽
+.com.vc3 504 ₽
+.net.vc3 504 ₽
+.org.vc3 504 ₽
+.co.ve6 036 ₽
+.com.ve6 036 ₽
+.vegas
+-65%
+ 1 999 ₽
+.nyc1 829 ₽
+.miami1 171 ₽
+.boston899 ₽
+.us.com1 646 ₽
+.us.org1 646 ₽
+другие страны
+.ac6 782 ₽
+.africa14 632 ₽
+.as7 353 ₽
+.cc1 695 ₽
+.cm10 974 ₽
+.co.cm2 195 ₽
+.com.cm2 195 ₽
+.net.cm2 195 ₽
+.fm7 133 ₽
+.radio.fm1 317 ₽
+.gg8 669 ₽
+.ki126 201 ₽
+.com.ki18 107 ₽
+.net.ki18 107 ₽
+.org.ki18 656 ₽
+.biz.ki18 107 ₽
+.info.ki18 107 ₽
+.je8 669 ₽
+.ly12 071 ₽
+.com.ly12 071 ₽
+.ms3 073 ₽
+.mu
+-28%
+ 7 133 ₽
+.com.mu6 255 ₽
+.net.mu6 255 ₽
+.org.mu6 255 ₽
+.nf13 564 ₽
+.com.nf7 347 ₽
+.net.nf7 347 ₽
+.org.nf7 347 ₽
+.ng4 390 ₽
+.com.ng439 ₽
+.net.ng439 ₽
+.nu3 165 ₽
+.nz2 744 ₽
+.co.nz
+-46%
+ 2 084 ₽
+.net.nz2 084 ₽
+.org.nz2 084 ₽
+.com.sb8 930 ₽
+.net.sb8 930 ₽
+.org.sb8 930 ₽
+.sc10 316 ₽
+.com.sc10 316 ₽
+.net.sc10 316 ₽
+.org.sc10 316 ₽
+.sh5 652 ₽
+.so2 195 ₽
+.st2 744 ₽
+.tk994 ₽
+.ws
+-74%
+ 816 ₽
+.za.com3 621 ₽
+.co.za1 756 ₽
+.net.za1 756 ₽
+.org.za1 756 ₽
+.web.za1 756 ₽
+.ps5 652 ₽
+.net.so2 195 ₽
+.irish2 048 ₽
+.ml1 778 ₽
+.cf1 778 ₽
+.mg12 443 ₽
+.tv
+.fm
+.srl
+.durban
+.joburg
+.capetown
+.cc
+.radio.fm
